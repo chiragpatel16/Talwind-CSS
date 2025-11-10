@@ -21,5 +21,5 @@ Tailwind CSS
 
 Optimized for desktops, tablets, and mobile screens to ensure a seamless shopping experience.
 
-Jewellery Shop UI Video
+🎬 Video Link To Check Output
 https://drive.google.com/file/d/1XGTmegcWI_nQHkX7r3aX6JtNexYauuBI/view?usp=sharing
