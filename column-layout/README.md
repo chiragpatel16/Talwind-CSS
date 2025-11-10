@@ -20,9 +20,5 @@ Build a simple masonry-style grid using Tailwind utilities like `columns-*`, spa
 10. Add hover effects or shadows for practice.
 
 ## 🎥 Video 
-<b>Output :-</b><a href="https://drive.google.com/file/d/1eV1vSIC_65U2hRct1VWNsw2f-XISoc3v/view?usp=drive_link">click here</a>
-<br>
+<b>Output :-</b>https://drive.google.com/file/d/1HztI6hjjhS7Xrj0JK-1b3d6mxczI4aW-/view?usp=drive_link
 
-**Topics:** setup, Tailwind utilities, responsive columns, and final output.
-
-Perfect for beginners learning Tailwind basics.
