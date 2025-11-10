@@ -15,11 +15,16 @@ Smooth hover effects and elegant color palette
 🛠️ Technologies Used
 
 HTML5
+
 Tailwind CSS
 
 📱 Responsive Design
 
 Optimized for desktops, tablets, and mobile screens to ensure a seamless shopping experience.
 
+
+
 🎬 Video Link To Check Output
+
+
 https://drive.google.com/file/d/1XGTmegcWI_nQHkX7r3aX6JtNexYauuBI/view?usp=sharing
