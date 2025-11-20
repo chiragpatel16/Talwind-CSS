@@ -53,4 +53,4 @@ Responsive UI Components
 
 output video : 
 
-https://drive.google.com/file/d/1NHh68KhpjMr1dJh0WoldRSko_U914eE4/view?usp=sharing
+https://drive.google.com/file/d/1NHh68KhpjMr1dJh0WoldRSko_U914eE4/view?usp=drive_link
