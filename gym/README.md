@@ -1,16 +1,56 @@
-# React + Vite
+💪 Fitness Gym Website — React + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive Gym/Fitness Website built using React and Tailwind CSS.
+Designed with clean UI, smooth animations, and a powerful layout to showcase gym services, trainers, equipment, supplements, and membership plans.
 
-Currently, two official plugins are available:
+🚀 Features
+🎨 Modern UI & Responsive Design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fully mobile-friendly using Tailwind CSS
 
-## React Compiler
+Smooth hover and scroll animations
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Clean, minimal, and premium fitness look
 
-## Expanding the ESLint configuration
+🏋️‍♂️ Gym Sections Included
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Hero Section with bold fitness heading
+
+Services Section (Strength, Cardio, Yoga, etc.)
+
+Trainers Section with profile cards
+
+Equipment Gallery showcasing gym equipment
+
+Protein / Supplements Section with glow effects
+
+Packages / Membership Plans
+
+About Section
+
+Footer with social media links
+
+⚡ Advanced Effects
+
+Neon glow effects
+
+Mirror effect for images
+
+Smooth image hover zoom
+
+Modern scroll animations (optional)
+
+📦 Tech Stack
+
+React.js
+
+Tailwind CSS
+
+JavaScript (ES6)
+
+Responsive UI Components
+
+
+output video : 
+
+https://drive.google.com/file/d/1NHh68KhpjMr1dJh0WoldRSko_U914eE4/view?usp=sharing
