@@ -19,9 +19,9 @@ export default function TrainerShowcase() {
           <p className="text-gray-700 mb-6 text-xl max-w-2xl mx-auto">
             Professional Trainer with 5+ years of experience. Helping clients achieve their fitness goals with personalized training plans.
           </p>
-          <button className="bg-orange-500 text-white px-10 py-4 rounded-lg shadow-lg hover:bg-orange-600 transition">
+          {/* <button className="bg-orange-500 text-white px-10 py-4 rounded-lg shadow-lg hover:bg-orange-600 transition">
             Contact Trainer
-          </button>
+          </button> */}
         </div>
 
         {/* Trainer Images Container with more space */}
