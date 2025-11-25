@@ -76,9 +76,13 @@ export default function AboutUs() {
 
       {/* Why Choose Us */}
       <section className="py-12 px-6 md:px-20">
-        <h2 className="text-4xl font-bold text-orange-400 mb-10 w-110 xs:text-2xl">Why Choose Five Fitness?</h2>
+        {/* <h2 className="text-4xl font-bold text-orange-400 mb-10 w-108 xs:text-1xs">Why Choose Five Fitness?</h2> */}
+<h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-orange-500 mb-5">
+  Why Choose Five Fitness?
+</h2>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-0">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+
 
           <div className="space-y-5">
             <div className="flex items-start gap-4">
