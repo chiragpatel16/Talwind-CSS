@@ -3,7 +3,7 @@ import HeroSection from "./componets/Hero.jsx";
 import Content from "./componets/Trainer.jsx";
 import Gym from "./componets/Gym.jsx";
 import Service from "./componets/Service.jsx";
-import Packages from "./componets/Packages.JSX";
+import Packages from "./componets/Packages.jsx";
 import Protein from "./componets/Protein.jsx";
 import FlowingMenu from "./componets/Flowing.jsx";
 import About from "./componets/About.jsx";
