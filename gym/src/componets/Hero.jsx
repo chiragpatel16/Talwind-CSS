@@ -14,7 +14,7 @@ export default function HeroBanner() {
       />
 
       {/* Gradient Overlay */}
-      <div className="absolute inset-0 bg-gradient-to-r from-black/40 via-black/40 to-transparent"></div>
+      <div className="absolute inset-0 bg-gradient-to-r from-black/40 via-black/20 to-transparent"></div>
 
       {/* Content Section */}
       <div className="relative z-10 h-full flex items-center justify-end px-6 md:px-24">
@@ -32,13 +32,13 @@ export default function HeroBanner() {
             <button
               className="bg-orange-500 text-white px-7 py-3 rounded-xl font-semibold
                          hover:bg-orange-600 hover:scale-105 transition-all shadow-lg">
-              Join Now
+          <a href="#Contact">Join Now</a>
             </button>
 
             <button
               className="border border-orange-400 text-orange-400 px-7 py-3 rounded-xl font-semibold
                          hover:bg-orange-500 hover:text-white hover:scale-105 transition-all shadow-lg">
-              Explore Plans
+            <a href="#Membership">Explore Plans</a>
             </button>
           </div>
         </div>

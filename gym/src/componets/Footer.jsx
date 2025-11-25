@@ -7,7 +7,7 @@ export default function GymFooter() {
 
         {/* Brand */}
         <div>
-          <h2 className="text-3xl font-extrabold text-orange-500 flex items-center gap-2">
+          <h2 className="text-2xl font-extrabold text-orange-500 flex items-center gap-2">
             <FaDumbbell className="text-orange-500" /> Five Fitness Gym
           </h2>
           <p className="mt-3 text-gray-400">
@@ -29,10 +29,6 @@ export default function GymFooter() {
   <FaGlobe className="text-xl hover:text-orange-500 cursor-pointer" />
 </a>
 
-
-  <a href="https://wa.me/91YOURNUMBER" target="_blank" rel="noopener noreferrer">
-    <FaWhatsapp className="text-xl hover:text-orange-500 cursor-pointer" />
-  </a>
 </div>
 
         </div>
