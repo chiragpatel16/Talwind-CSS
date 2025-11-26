@@ -1,44 +1,56 @@
 💪 Fitness Gym Website — React + Tailwind CSS
 
-A modern, fully responsive Gym/Fitness Website built using React and Tailwind CSS.
-Designed with clean UI, smooth animations, and a powerful layout to showcase gym services, trainers, equipment, supplements, and membership plans.
+A modern, fully responsive Gym/Fitness Website built using React + Tailwind CSS.
+Designed with a clean UI, smooth animations, and a powerful layout to showcase gym services, trainers, equipment, supplements, and membership plans.
 
-🚀 Features
-🎨 Modern UI & Responsive Design
+🚀 Live Demo
+
+🔗 Deployed Link:
+👉 https://talwind-css-alpha.vercel.app/
+
+▶️ Project Video Output:
+https://drive.google.com/file/d/1NHh68KhpjMr1dJh0WoldRSko_U914eE4/view?usp=drive_link
+
+🎨 Features
+✅ Modern UI & Responsive Design
 
 Fully mobile-friendly using Tailwind CSS
 
 Smooth hover and scroll animations
 
-Clean, minimal, and premium fitness look
+Premium black-orange fitness theme
+
+Clean and modern layout for all screen sizes
 
 🏋️‍♂️ Gym Sections Included
 
 Hero Section with bold fitness heading
 
+About Section
+
 Services Section (Strength, Cardio, Yoga, etc.)
 
 Trainers Section with profile cards
 
-Equipment Gallery showcasing gym equipment
+Equipment Gallery
 
 Protein / Supplements Section with glow effects
 
-Packages / Membership Plans
+Membership / Packages Section
 
-About Section
-
-Footer with social media links
+Follow Us + Footer
 
 ⚡ Advanced Effects
 
 Neon glow effects
 
-Mirror effect for images
+Image mirror effect
 
-Smooth image hover zoom
+Smooth hover zoom
 
-Modern scroll animations (optional)
+Optional scroll animations
+
+Clean card + grid layout
 
 📦 Tech Stack
 
@@ -49,8 +61,3 @@ Tailwind CSS
 JavaScript (ES6)
 
 Responsive UI Components
-
-
-output video : 
-
-https://drive.google.com/file/d/1NHh68KhpjMr1dJh0WoldRSko_U914eE4/view?usp=drive_link
